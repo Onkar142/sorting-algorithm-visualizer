@@ -50,17 +50,35 @@ Users can pause and resume the visualization and change the animation speed whil
 
 ```bash
 git clone https://github.com/Onkar142/sorting-algorithm-visualizer.git
+```
 
 ### 2. Navigate to the project folder
 
 ```bash
 cd sorting-algorithm-visualizer
+```
 
+### 3. Install dependencies
+
+```bash
 npm install --legacy-peer-deps
+```
+
+### 4. Start the development server
+
+```bash
 npm start
+```
 
+The application will run at:
+
+```text
 http://localhost:3000
+```
 
+## Project Structure
+
+```text
 sorting-algorithm-visualizer/
 │
 ├── public/
@@ -82,3 +100,10 @@ sorting-algorithm-visualizer/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
+
+## Author
+
+**Onkar**
+
+GitHub: https://github.com/Onkar142
