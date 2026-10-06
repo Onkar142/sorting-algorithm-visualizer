@@ -104,6 +104,6 @@ sorting-algorithm-visualizer/
 
 ## Author
 
-**Onkar**
+**Onkar Kulkarni**
 
 GitHub: https://github.com/Onkar142
